@@ -15,6 +15,3 @@ mall商城购物系统学习
 - mybatis逆向工程
 - swagger2
 - redis
-
-- 商品品牌管理
-- 会员登录注册管理
