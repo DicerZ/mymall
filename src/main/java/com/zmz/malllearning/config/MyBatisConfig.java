@@ -9,7 +9,7 @@ import org.springframework.context.annotation.Configuration;
  * Created by zmz on 2019/10/18.
  */
 @Configuration
-@MapperScan("com.zmz.malllearning.mbg.mapper")
+@MapperScan({"com.zmz.malllearning.mbg.mapper","com.zmz.malllearning.dao"})
 public class MyBatisConfig {
 
 }
