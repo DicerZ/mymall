@@ -1,8 +1,6 @@
 package com.zmz.malllearning.dao;
 import com.zmz.malllearning.mbg.model.UmsPermission;
 import org.apache.ibatis.annotations.Param;
-import org.springframework.stereotype.Repository;
-import org.springframework.transaction.annotation.Transactional;
 
 import java.util.List;
 
